@@ -55,10 +55,10 @@ Your brand should communicate:
 - Excessive emojis
 - Hashtags
 - Corporate jargon
-- "Game changer"
-- "Revolutionary"
-- "Unlock"
-- "Skyrocket"
+- “Game changer”
+- “Revolutionary”
+- “Unlock”
+- “Skyrocket”
 - Overly salesy language
 
 ## Signature Messaging Themes
@@ -105,7 +105,7 @@ LinkedIn carousel performance
 - Bold
 
 ### Body Font
-**Inter / Inter style sans serif**
+**Intent / Inter style sans serif**
 - Modern
 - Clean
 - Readable
@@ -133,22 +133,11 @@ Bottom Right:
 
 ## Color Palette
 
-### Canvas Base
-- Dark navy is the default background for all designs
-- Background is near black with a deep navy undertone
-- Never use a light or white canvas as the base
-
 ### Primary Colors
-- Electric Blue (primary accent, highlights, borders)
+- Electric Blue
 - Deep Cobalt
 - Indigo
 - Violet
-
-### Gradient Direction
-- Base: dark navy to near black
-- Accent overlays: electric blue to subtle blue
-- Avoid bright or saturated violet as a dominant gradient
-- Keep gradients dark, deep, and directional
 
 ### Secondary Colors
 - Soft Lavender
@@ -157,26 +146,10 @@ Bottom Right:
 - Pale Blue gradients
 
 ### Accent Colors
-- Green for outcomes and results
-- Orange for systems and process steps
-- Purple for intelligence and insight
-- Blue for trust and authority
-- Yellow or amber for warnings or highlights
-- Pink or rose for contrast tags
-
-### Color Coded Tag System
-All content cards and information rows use a pill tag or badge system to categorize items visually:
-- Each tag is a small rounded pill shape placed inline with or beside the content label
-- Tags use the accent color set: green, orange, purple, blue, yellow, pink
-- Tags are never randomly assigned. Each color maps to a category consistently across the design
-- Green tags: outcomes, results, benefits
-- Orange tags: process steps, systems, workflows
-- Purple tags: intelligence, strategy, insight
-- Blue tags: trust signals, authority markers, tools
-- Yellow tags: highlights, important callouts
-- Pink or rose tags: contrast items, exceptions, edge cases
-- Tag text uses Inter or JetBrains Mono at small size, uppercase or sentence case
-- Tags must be legible on dark backgrounds at all times
+- Green for outcomes
+- Orange for systems/process
+- Purple for intelligence
+- Blue for trust
 
 ### Design Effects
 - Glassmorphism
@@ -185,15 +158,6 @@ All content cards and information rows use a pill tag or badge system to categor
 - Rounded cards
 - Soft drop shadows
 - Layered UI depth
-
-## Background Texture System
-All designs use a subtle background texture layer beneath the content:
-- The texture is a circuit board or neural grid pattern
-- It sits at very low opacity, between 5 and 12 percent, so it never competes with content
-- The texture color matches the electric blue or pale blue palette
-- It creates a sense of technical depth and system architecture without being distracting
-- This is a permanent background layer element, not optional decoration
-- The texture should be visible on close inspection but invisible at a glance
 
 ## Layout Framework
 Every design should prioritize:
@@ -206,16 +170,6 @@ Every design should prioritize:
 - Standalone slide readability
 - Carousel optimization
 - Strategic information flow
-
-## CTA Section Format
-The bottom section of any lead magnet or engagement post uses a distinct visual treatment:
-- Full width dark block, slightly lighter than the main canvas
-- Contains a short bold CTA line in large Georgia or Inter Bold typeface
-- The action keyword or phrase is highlighted in electric blue or a contrasting accent color
-- Accompanied by a relevant icon on the left side, either a terminal icon, folder icon, or workflow symbol
-- The CTA text is short and direct. Example format: Comment "KEYWORD" and I'll send it.
-- This section is visually separated from the main content by a subtle divider or glow line
-- Never use this section for generic calls to action. It must reference a specific deliverable
 
 ## Signature Content Structure
 
@@ -258,7 +212,6 @@ Best suited for:
 ## Graphic Assets
 Preferred:
 - 3D AI icons
-- Brand pixel art icon (official, do not replace)
 - Workflow diagrams
 - Dashboard visuals
 - Device mockups
@@ -291,7 +244,7 @@ Your audience should feel:
 - Strategic advantage
 
 ## Design Prompt Template
-"Create a premium futuristic editorial infographic for Tamil Iniyan on a dark navy canvas with a subtle circuit grid texture at low opacity. Use Georgia headlines, Inter body typography, JetBrains Mono for technical sections, electric blue and subtle blue gradients on a near black base. Apply a color coded pill tag system using green for outcomes, orange for process, purple for insight, and blue for trust. Use modular rounded content cards, glassmorphism effects, soft glow accents, AI workflow visuals, and strong LinkedIn authority aesthetics. Include Tamil Iniyan bottom left and AI Automation bottom right."
+“Create a premium futuristic editorial infographic for Tamil Iniyan in a clean glassmorphism style using Georgia headlines, Inter body typography, JetBrains Mono technical sections, electric blue and violet gradients, modular rounded content cards, AI workflow visuals, and strong LinkedIn authority aesthetics. Include Tamil Iniyan bottom left and AI Automation bottom right.”
 
 ## Production Standards
 - Clarity first
